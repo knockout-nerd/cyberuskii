@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyberuskii
 - 👀 I’m interested in learning programming ...
 - 🌱 I’m currently learning Java and flutter ...
-- 💞️ I’m looking to collaborate on java projects and help in career advise. 
+- 💞️ I’m looking to collaborate on java projects or help in career advise. 
 - 📫 How to reach me on telegram @muulee
 
 <!---
